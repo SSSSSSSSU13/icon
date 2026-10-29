@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <div style="width: 100vw; height: 100vh; display: flex; justify-content: center; align-items: center; background: #0f172a; margin: 0;">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" style="max-width: 500px; max-height: 500px;">
     <!-- 背景の光彩効果 -->
@@ -45,3 +47,4 @@
     <circle cx="200" cy="200" r="18" fill="#38bdf8" />
   </svg>
 </div>
+</html>
